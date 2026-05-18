@@ -1,0 +1,17 @@
+{
+    "name": "nevermore-express",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "mocha test/test.mjs"
+    },
+    "dependencies": {
+        "ai-nevermore": "^0.1.2",
+        "chai": "^6.2.2",
+        "css-tree": "^3.2.1",
+        "express": "^5.2.1",
+        "mocha": "^11.7.5"
+    },
+    "devDependencies": {
+        "parse5": "^8.0.1"
+    }
+}
