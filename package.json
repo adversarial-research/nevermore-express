@@ -6,12 +6,12 @@
     },
     "dependencies": {
         "ai-nevermore": "^0.1.2",
-        "chai": "^6.2.2",
-        "css-tree": "^3.2.1",
-        "express": "^5.2.1",
-        "mocha": "^11.7.5"
+        "express": "^5.2.1"
     },
     "devDependencies": {
+        "mocha": "^11.7.5",
+        "chai": "^6.2.2",
+        "css-tree": "^3.2.1",
         "parse5": "^8.0.1"
     }
 }
