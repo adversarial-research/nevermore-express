@@ -5,7 +5,7 @@ A simple way to do nevermore encoding as a post-process within an express app. B
 
 ```js
 import express from 'express';
-import 'nevermore-express';
+import '@adversarial-research/nevermore-express';
 
 const app = express();
 app.get('/endpoint', (req, res)=>{
